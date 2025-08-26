@@ -443,7 +443,7 @@ export default function App() {
               Professionally, Eugene has worked at the Center for Astrophysics | Harvard & Smithsonian, as part of its Minor Planet Center's “Planetary Defenders” team, where he spent two semesters and a summer helping refine a mathematical equation to predict asteroid locations and developing a Python program that verified the coordinates of more than 2,500 observatories around the world. Currently, he is independently contracted to Ringle, where he teaches English as a Second Language to students in various professional occupations. He is credited by his high school as the founder of the Rubik's Cube Club, where he led an initiative with his school's chapter of the National Honors Society to start Rubik’s Cube workshops for K–12 students at local youth centers. In the winter of 2025, the club successfully hosted a competition certified by the World Cube Association (WCA), in partnership with Cube New England, gathering over 150 cubers from New England.
             </p>
             <p className="leading-7 text-neutral-800 text-justify text-sm sm:text-base">
-              At Yale, Eugene is exploring his interests in Computational Linguistics, Architecture, Economics & Math, and Patent Law while continuing to pursue music at the highest level. He hopes to make a profound impact in whichever career path he decides to pursue.
+              At Yale, Eugene plans to double major in Architecture and Music. He hopes to make a profound impact in whichever career path he decides to pursue.
             </p>
           </div>
           <div className="space-y-3">
